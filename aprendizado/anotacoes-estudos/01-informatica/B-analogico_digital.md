@@ -43,3 +43,5 @@ Enquanto abreviamos **bit** com **"b"** (b minúsculo),<br>
 abreviamos **byte** com **"B"** (B maiúsculo). <br>
 Assim, **1 KB** é a representação de **um kilobyte** (1.024 bytes = 8.192 bits), <br>
 enquanto **1 Kb** é a representação de **um kilobit** (1.024 bits).<br>
+
+Referencia bibliografica: Gabriel Torres - Hardware Curso Completo 4ª Edição.
