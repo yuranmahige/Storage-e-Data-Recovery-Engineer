@@ -1,0 +1,1 @@
+<!-- ![imagem](assets/como-o-processador-acessa-a-memoria.jpeg)-->
