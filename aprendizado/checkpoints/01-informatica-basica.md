@@ -3,9 +3,9 @@
 > Você já sabe. Marque só para confirmar que está sólido.
 
 ## Conceitos
-- [ ] Sabe o que é um computador (CPU, memória, armazenamento, I/O)
-- [ ] Sabe a diferença entre RAM e armazenamento permanente
-- [ ] Sabe o que é um sistema operacional
+- [ X ] Sabe o que é um computador (CPU, memória, armazenamento, I/O)
+- [ X ] Sabe a diferença entre RAM e armazenamento permanente
+- [ X ] Sabe o que é um sistema operacional
 - [ ] Sabe o que é firmware/BIOS/UEFI
 - [ ] Sabe o que é um bus (PCIe, SATA, NVMe)
 
