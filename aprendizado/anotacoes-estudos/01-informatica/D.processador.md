@@ -32,6 +32,8 @@ Quando executamos um programa no computador, o processador busca as instruções
 os programas ficam armazenados dentro do processador).
 *Programa = conjunto de instrucoes/comadados*.
 
+<img style="height:350px" src="assets/fluxo-processador-basico.jpeg" alt="Fluxo de processador basico">
+ 
 Existem dois tipos de memória principal: RAM (Random Access Memory) e ROM (Read
 Only Memory).
 
@@ -117,3 +119,4 @@ Processadores IA-64. A primeira geração dessa nova arquitetura é representada
 
 `A partir da 5ª geração não há como fazer uma correlação direta entre os processadores fabricados pela Intel com os processadores fabricados por outras empresas.`
 
+*Referencia bibliografica: Gabriel Torres - Hardware Curso Completo 4ª Edição.*
