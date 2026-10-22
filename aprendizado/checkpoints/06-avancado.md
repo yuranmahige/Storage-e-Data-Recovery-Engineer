@@ -26,6 +26,14 @@
 - [ ] Sabe exportar disco virtual (VMDK/VHDX) para testar em outra VM
 - [ ] Sabe usar `qemu-nbd` ou `guestfish` para inspecionar disco virtual
 
+## Segurança + Forense aplicada (opcional)
+- [ ] Volatility 3 (análise de memória RAM)
+- [ ] YARA rules (detecção de malware)
+- [ ] osquery (investigação de host)
+- [ ] Análise de artefatos Windows (Prefetch, AMCache, ShimCache)
+- [ ] Simulação: infecção em VM → detecção → resposta → forense
+- [ ] Certificação: GREM ou GCFA
+
 ## Rotina prática (semanal)
 - [ ] Rodar `smartctl -a` em todos os discos
 - [ ] Checar `dmesg` por I/O errors
